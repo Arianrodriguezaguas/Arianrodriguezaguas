@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Arian Rodriguez im developer Front End, actually im learning and creating a few projects with: 
+My name is Arian Rodriguez im Front End Developer, actually im learning and creating a few projects with: 
 <br />
 <br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
